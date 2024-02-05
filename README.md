@@ -11,3 +11,5 @@ I'm thrilled to share that my solution secured a Silver Medal 🥈, placing me i
 Notebook Contents:
 
 The notebook encompasses innovative techniques and methodologies applied to tackle the complexities of energy forecasting. From feature engineering to model selection, each step is detailed to provide insights into the decision-making process.
+
+[Enefit-Ensemble-Submission-Final.ipynb](https://github.com/bhathiya-pilanawithana/Enefit-Kaggle/blob/main/Enefit-Ensemble-Submission-Final.ipynb)
